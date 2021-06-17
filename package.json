@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "parcel index.html",
+    "prod": "parcel build index.html"
+  },
+  "dependencies": {
+    "modules": "^0.4.0",
+    "shared": "^0.2.0",
+    "ui": "^0.2.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "@babel/core": "^7.0.0-0",
+    "@babel/plugin-transform-runtime": "^7.14.3",
+    "autoprefixer": "^10.2.6",
+    "parcel-bundler": "^1.12.5"
+  }
+}
